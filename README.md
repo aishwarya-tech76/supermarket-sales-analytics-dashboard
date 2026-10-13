@@ -3,6 +3,9 @@
 ## 📊 Overview
 This interactive Excel dashboard analyzes supermarket sales data to track key performance metrics, monthly trends, and product performance insights.
 
+## 📸 Dashboard Preview
+![Dashboard Preview](dashboard_preview.png)
+
 ## 🔑 Key Features & Insights
 - **Key Performance Indicators (KPIs):** Instant view of Total Revenue, Total Orders, and Average Bill Value.
 - **Category & Product Analysis:** Detailed breakdown of sales by product categories and Top 5 performing products.
